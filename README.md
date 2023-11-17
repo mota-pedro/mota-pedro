@@ -1,10 +1,10 @@
 ### Olá! Me chamo Pedro Mota 👋
 
 <a href="https://github.com/mota-pedro/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mota-pedro&show_icons=true&theme=radical" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=mota-pedro&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/mota-pedro/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mota-pedro&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mota-pedro&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
 ##
